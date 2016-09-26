@@ -1,1 +1,4 @@
-body {background-color:rgb(130, 130, 130) }
+body {background-color:rgb(130, 130, 130); }
+.text-center {text-align: center;}
+img {padding-bottom: 25px; padding-top: 25px;}
+.pic {transform: scale(.8);}
